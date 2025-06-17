@@ -152,17 +152,9 @@ cd mi-tiendita
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
-## 📞 Soporte y Contacto
-
-### Soporte Técnico
-- **Email**: soporte@mitiendita.mx
-- **WhatsApp**: +52 55 1234-5678
-- **Horario**: Lunes a Viernes, 9:00 AM - 6:00 PM
-
 ### Documentación
-- [Wiki del Proyecto](https://github.com/tu-usuario/mi-tiendita/wiki)
-- [Documentación de API](docs/API.md)
-- [Guía de Usuario](docs/USER_GUIDE.md)
+- [Wiki del Proyecto](https://github.com/equipo4pm/Programaci-n-M-vil/wiki)
+- [Guía de Usuario](https://drive.google.com/file/d/1OAv71khycREFz0AfSkPfPdqjUXbSdzIR/view?usp=sharing)
 
 ## 🙏 Agradecimientos
 
