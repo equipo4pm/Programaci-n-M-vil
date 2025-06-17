@@ -102,8 +102,7 @@ java -version # Requiere Java 8 o superior
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/mi-tiendita.git
-cd mi-tiendita
+git clone https://github.com/equipo4pm/Programaci-n-M-vil.git
 ```
 
 ### Configuración del Proyecto
